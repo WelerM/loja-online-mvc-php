@@ -15,7 +15,7 @@ CRUD de produtos pelo usuário admin, 3 camadas de tratamento de inputs (bootstr
 
 # Installation (with XAMPP)
 - Run XAMPP
-- Upload the .sql file into PhpMyAdmin
+- Upload the .sql file located in the root directory into PhpMyAdmin
 - Rename the "config.copy.php" located in the root directory to "config.php"
 - Create a folder inside "htdocs" from XAMPP, it's recomended to name it as "loja" so you won't have to update the "APP_BASE_URL" and "APP_DOCUMENT_ROOT" enviroment variables.
 - Git clone the project code into the folder you just created, don't need to create a sub-folder.
