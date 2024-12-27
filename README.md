@@ -23,6 +23,5 @@ CRUD de produtos pelo usuário admin, 3 camadas de tratamento de inputs (bootstr
   ```
   composer install
   ```
--Access:
-http://localhost/loja/public/
+- Access: http://localhost/loja/public/
 
